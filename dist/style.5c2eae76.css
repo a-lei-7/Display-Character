@@ -19,7 +19,7 @@ main{
 @media (max-width: 500px) {
   #catHead {
     top: 50%;
-    right: 30%;
+    right: 25%;
   }
 }
 .ear {
@@ -220,4 +220,4 @@ main>#catHead> #left-ear {
   }
 }
 
-/*# sourceMappingURL=style.d2f64e2e.css.map */
+/*# sourceMappingURL=style.5c2eae76.css.map */
