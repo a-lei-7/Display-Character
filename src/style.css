@@ -7,6 +7,7 @@ main{
   position: absolute;
   height: 100vh;
   background-color: #ccc;
+  overflow: hidden;
 }
 #catHead {
   min-width:300px;
@@ -19,7 +20,7 @@ main{
 @media (max-width: 500px) {
   #catHead {
     top: 50%;
-    right: 25%;
+    right: 24%;
   }
 }
 .ear {
